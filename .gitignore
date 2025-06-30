@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# dotenv environment variables
+.env
+.env.* 
+
+# Build output
+dist/
+build/
+.next/
+out/
+
+# Coverage reports
+coverage/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Database dumps or local DB files
+*.sql
+*.sqlite
+*.dump
+
+# Mac system files
+*.DS_Store
+
+# Logs from postgres or other services
+*.log
+
+# Local data
+tmp/
+temp/
